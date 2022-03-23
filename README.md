@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @0nespo
-- 👀 I’m interested in AI
+- 👋 Hi, I’m @OnesSanjerico
+- 👀 I’m interested in AI, IoT and Blockchain
 
 
 <!---
