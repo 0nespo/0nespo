@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @0nespo
-- 👀 I’m interested in AI 
-- 🌱 I’m currently learning everything i want
-- 💞️ I’m looking to collaborate on no one
-- 📫 How to reach me 162.432.773.123
+- 👀 I’m interested in AI
 
 
 <!---
